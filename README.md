@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm learning JS
+* 🧠  I'm learning JS and Swift
 
 ### Skills
 
