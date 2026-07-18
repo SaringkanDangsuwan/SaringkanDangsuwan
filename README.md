@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8993F1,100:915EFF&height=200&section=header&text=Saringkan%20Dangsuwan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8993F1,100:915EFF&height=200&section=header&text=bigpooh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header banner"/>
 
 <a href="https://github.com/SaringkanDangsuwan">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8993F1&center=true&vCenter=true&width=600&lines=IT+Student+at+KMITL;Computer+Vision+and+Game+Dev+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8993F1&center=true&vCenter=true&width=600&lines=Saringkan Dangsuwan;IT+Student+at+KMITL;Computer+Vision+and+Game+Dev+Enthusiast" alt="Typing SVG"/>
 </a>
 
 <br/>
